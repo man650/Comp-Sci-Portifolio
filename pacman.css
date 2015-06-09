@@ -1,0 +1,35 @@
+/*
+    Document   : w6.css
+    Created on : 2015-03-17 08:11 PM
+    Author     : hookme
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+#bart{
+    background-image: url('http://img3.wikia.nocookie.net/__cb20140918001012/ssb/images/6/6d/Originalpac.png');
+    background-size: 25px 25px;
+/*     border: 1px solid black;  */
+}
+
+
+
+.ghost{
+    background-image: url('http://static.giantbomb.com/uploads/scale_small/8/87790/2469740-blinky.png');
+    background-size: 25px 25px;
+/*     border: 1px solid purple;  */
+}
+
+
+
+body
+{
+overflow: hidden;
+}
+
+
+.coins{
+    background-image: url('http://art.ngfiles.com/images/265000/265639_philipv11_mario-coin.png');
+    background-size: 25px 25px;
+}
