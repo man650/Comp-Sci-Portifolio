@@ -113,3 +113,15 @@ Bot.prototype.botBrain = function() {
     });
 }
 bot.runGame();
+<div>
+<ul>
+<li><a href="index.html">Welcome!</a></li>
+	    <li><a href="aboutme.html">about me</a></li>
+	    <li><a href="hardware.Html">hardware </a></li>
+	    <li><a href="Htmlpage.html">Html page</a></li>
+        <li><a href="pacman.html">Maze Game</a></li>
+        <li><a href="Stable.js">Stable</a></li>
+        <li><a href="roulette.html">Bottle Game</a></li>
+        <li><a href="calc.html">calcutor</a></li>                       
+	  </ul>
+	</div>
