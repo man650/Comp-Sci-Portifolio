@@ -1,0 +1,19 @@
+/*
+    Document   : code.css
+    Created on : 2015-06-10 09:45 PM
+    Author     : Mannyzaragoza
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+#myCode {
+overflow: scroll;
+width: 100%;
+height:300px;
+background-color: red;
+
+}
